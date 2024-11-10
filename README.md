@@ -1,4 +1,4 @@
-The Universe sai da seara das paginas estáticas com o Single Page Aplication. Cada uma das 3 seções da barra de navegação (''Home'', ''O Universo'' e ''Exploração'' - e que poderiam ser quantas mais se quisesse) traz conteúdo e background diversos. A NavBar conta ainda com hover e animação, e há até uma seção bem legal pra indicar um ''erro404/caminho inexistente''.
+The Universe leaves the field of static pages with the Single Page Application. Each of the 3 sections of the navigation bar (''Home'', ''The Universe'' and ''Exploration'' - and there could be as many more as you wanted) brings different content and background. The NavBar also has hover and animation, and there is even a really cool section to indicate an ''error404/nonexistent path''.
 
 ![image](https://github.com/user-attachments/assets/09916b73-00fc-4f6a-977d-7bef6c439fda)
 ![image](https://github.com/user-attachments/assets/1fc662c0-b805-4fa4-8717-26904e45901b)
